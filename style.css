@@ -1,0 +1,27 @@
+
+#main {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    gap: 10px;
+}
+
+button {
+    display: flex;
+    width = 30px;
+}
+
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    height: 960px;
+    width: 960px;
+    border: 2px solid gray;
+    
+}
+
+.blue {
+    background-color: blue;
+}
+
+
